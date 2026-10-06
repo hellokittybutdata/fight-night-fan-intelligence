@@ -12,7 +12,7 @@
 - Houston, Mexico City and Chicago have strong demand but host no events
 - Announcing next month's fight on TV lifted 60-day retention from 39% to 59%
 
-**See the dashboard:** https://public.tableau.com/app/profile/elisha.rumph/viz/Fight-Night-Fan-Intelligence/FightNightFanIntelligenceSampleData_
+**See the dashboard:** https://public.tableau.com/app/profile/elisha.rumph/viz/Fight-Night-Fan-Intelligence/FightNightFanIntelligenceSampleData_ 
 
 
 *All data is synthetic. Fighters and promoters are fictional.*
