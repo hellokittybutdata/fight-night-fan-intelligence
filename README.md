@@ -14,7 +14,7 @@
 
 **See the dashboard:** [View the Tableau story](https://public.tableau.com/app/profile/elisha.rumph/viz/Fight-Night-Fan-Intelligence/FightNightFanIntelligenceSampleData_)
 
-![Dashboard](Images/dashboard1.png)
+![Dashboard](Images/Dashboard1.png)
 
 
 *All data is synthetic. Fighters and promoters are fictional.*
