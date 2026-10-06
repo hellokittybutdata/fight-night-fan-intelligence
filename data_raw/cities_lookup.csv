@@ -1,0 +1,29 @@
+City,Country,Region,Latitude,Longitude
+Las Vegas,United States,North America,36.1699,-115.1398
+New York,United States,North America,40.7128,-74.006
+Los Angeles,United States,North America,34.0522,-118.2437
+San Antonio,United States,North America,29.4241,-98.4936
+Atlanta,United States,North America,33.749,-84.388
+Newark,United States,North America,40.7357,-74.1724
+Chicago,United States,North America,41.8781,-87.6298
+Houston,United States,North America,29.7604,-95.3698
+Phoenix,United States,North America,33.4484,-112.074
+Miami,United States,North America,25.7617,-80.1918
+Philadelphia,United States,North America,39.9526,-75.1652
+Toronto,Canada,North America,43.6532,-79.3832
+Monterrey,Mexico,Latin America,25.6866,-100.3161
+Mexico City,Mexico,Latin America,19.4326,-99.1332
+Guadalajara,Mexico,Latin America,20.6597,-103.3496
+London,United Kingdom,Europe,51.5074,-0.1278
+Manchester,United Kingdom,Europe,53.4808,-2.2426
+Cardiff,United Kingdom,Europe,51.4816,-3.1791
+Birmingham,United Kingdom,Europe,52.4862,-1.8904
+Glasgow,United Kingdom,Europe,55.8642,-4.2518
+Belfast,United Kingdom,Europe,54.5973,-5.9301
+Dublin,Ireland,Europe,53.3498,-6.2603
+Madrid,Spain,Europe,40.4168,-3.7038
+Berlin,Germany,Europe,52.52,13.405
+Riyadh,Saudi Arabia,Middle East,24.7136,46.6753
+Sydney,Australia,Asia-Pacific,-33.8688,151.2093
+Melbourne,Australia,Asia-Pacific,-37.8136,144.9631
+Tokyo,Japan,Asia-Pacific,35.6762,139.6503

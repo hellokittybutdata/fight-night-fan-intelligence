@@ -1,0 +1,29 @@
+City,Country,Region,Latitude,Longitude,Ticket_Fans,Traveling_Fans,Ticket_Revenue_USD,Subscribers,Events_Hosted,Opportunity_Score
+Las Vegas,United States,North America,36.1699,-115.1398,2718,433,2371590.33,1249,7.0,210.0
+New York,United States,North America,40.7128,-74.006,2432,1499,2185239.25,1532,4.0,606.0
+Los Angeles,United States,North America,34.0522,-118.2437,2305,1397,2029154.18,1452,4.0,570.0
+San Antonio,United States,North America,29.4241,-98.4936,1256,620,1091905.97,716,3.0,334.0
+Atlanta,United States,North America,33.749,-84.388,1446,799,1330003.26,871,3.0,418.0
+Newark,United States,North America,40.7357,-74.1724,945,298,848408.84,494,3.0,198.0
+Chicago,United States,North America,41.8781,-87.6298,2047,2047,1958739.61,1681,0.0,3728.0
+Houston,United States,North America,29.7604,-95.3698,2317,2317,2490096.47,1776,0.0,4093.0
+Phoenix,United States,North America,33.4484,-112.074,794,794,793798.53,647,0.0,1441.0
+Miami,United States,North America,25.7617,-80.1918,833,833,731700.2,633,0.0,1466.0
+Philadelphia,United States,North America,39.9526,-75.1652,801,698,764939.86,578,0.0,1276.0
+Toronto,Canada,North America,43.6532,-79.3832,171,171,185282.35,621,0.0,792.0
+Monterrey,Mexico,Latin America,25.6866,-100.3161,502,435,454104.16,467,1.0,451.0
+Mexico City,Mexico,Latin America,19.4326,-99.1332,1928,1928,1717821.5,1830,0.0,3758.0
+Guadalajara,Mexico,Latin America,20.6597,-103.3496,551,551,527895.17,546,0.0,1097.0
+London,United Kingdom,Europe,51.5074,-0.1278,3742,1685,3383809.05,2060,6.0,535.0
+Manchester,United Kingdom,Europe,53.4808,-2.2426,1773,857,1513395.09,979,4.0,367.0
+Cardiff,United Kingdom,Europe,51.4816,-3.1791,2720,326,2087254.2,1202,2.0,509.0
+Birmingham,United Kingdom,Europe,52.4862,-1.8904,843,652,709147.86,639,0.0,1291.0
+Glasgow,United Kingdom,Europe,55.8642,-4.2518,664,664,659804.39,541,0.0,1205.0
+Belfast,United Kingdom,Europe,54.5973,-5.9301,790,740,763754.59,591,0.0,1331.0
+Dublin,Ireland,Europe,53.3498,-6.2603,2338,412,2171008.26,1153,2.0,522.0
+Madrid,Spain,Europe,40.4168,-3.7038,42,42,28662.41,288,0.0,330.0
+Berlin,Germany,Europe,52.52,13.405,29,29,15608.07,260,0.0,289.0
+Riyadh,Saudi Arabia,Middle East,24.7136,46.6753,1601,14,1201067.65,786,6.0,114.0
+Sydney,Australia,Asia-Pacific,-33.8688,151.2093,643,165,590168.85,504,2.0,223.0
+Melbourne,Australia,Asia-Pacific,-37.8136,144.9631,152,152,129179.56999999999,294,0.0,446.0
+Tokyo,Japan,Asia-Pacific,35.6762,139.6503,520,264,457425.19,610,1.0,437.0
